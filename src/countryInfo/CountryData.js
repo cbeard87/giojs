@@ -224,7 +224,7 @@ var CountryData = ( function () {
         TZ: { colorCode: 88, name: 'TANZANIA, UNITED REPUBLIC OF', lat: -6, lon: 35 },
         UA: { colorCode: 17, name: 'UKRAINE', lat: 49, lon: 32 },
         UG: { colorCode: 38, name: 'UGANDA', lat: 1, lon: 32 },
-        US: { colorCode: 150, name: 'UNITED STATES', lat: 38, lon: -97 },
+        US: { colorCode: 150, name: 'UNITED STATES', lat: 39.742043, lon: -104.991531 },
         UY: { colorCode: 109, name: 'URUGUAY', lat: -33, lon: -56 },
         UZ: { colorCode: 154, name: 'UZBEKISTAN', lat: 41, lon: 64 },
         VA: { colorCode: 225, name: 'HOLY SEE (VATICAN CITY STATE)', lat: 41.9, lon: 12.45 },
