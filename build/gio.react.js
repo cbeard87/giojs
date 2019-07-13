@@ -1062,7 +1062,7 @@ function SurfaceHandler ( controller ) {
 
     var highlightColor = 255;
 
-    var oceanMin = 0, oceanMax = 20;
+    var oceanMin = 0, oceanMax = 100;
     var mentionedMin = 50, mentionedMax = 100;
     var relatedMin = 100, relatedMax = 150;
 
